@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodApp.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fce881d24f003b9a16c77b42ab92c5c97b75ae7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+937071df6ca0fbd0bfb0747ce6265d855d2d2ca5")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodApp.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodApp.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
