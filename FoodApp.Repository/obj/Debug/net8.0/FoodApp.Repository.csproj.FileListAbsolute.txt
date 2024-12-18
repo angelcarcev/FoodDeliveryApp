@@ -1,0 +1,16 @@
+C:\Users\carce\Downloads\FoodDeliveryApp\FoodApp.Repository\bin\Debug\net8.0\FoodApp.Repository.deps.json
+C:\Users\carce\Downloads\FoodDeliveryApp\FoodApp.Repository\bin\Debug\net8.0\FoodApp.Repository.dll
+C:\Users\carce\Downloads\FoodDeliveryApp\FoodApp.Repository\bin\Debug\net8.0\FoodApp.Repository.pdb
+C:\Users\carce\Downloads\FoodDeliveryApp\FoodApp.Repository\bin\Debug\net8.0\FoodApp.Domain.dll
+C:\Users\carce\Downloads\FoodDeliveryApp\FoodApp.Repository\bin\Debug\net8.0\FoodApp.Domain.pdb
+C:\Users\carce\Downloads\FoodDeliveryApp\FoodApp.Repository\obj\Debug\net8.0\FoodApp.Repository.csproj.AssemblyReference.cache
+C:\Users\carce\Downloads\FoodDeliveryApp\FoodApp.Repository\obj\Debug\net8.0\FoodApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carce\Downloads\FoodDeliveryApp\FoodApp.Repository\obj\Debug\net8.0\FoodApp.Repository.AssemblyInfoInputs.cache
+C:\Users\carce\Downloads\FoodDeliveryApp\FoodApp.Repository\obj\Debug\net8.0\FoodApp.Repository.AssemblyInfo.cs
+C:\Users\carce\Downloads\FoodDeliveryApp\FoodApp.Repository\obj\Debug\net8.0\FoodApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\carce\Downloads\FoodDeliveryApp\FoodApp.Repository\obj\Debug\net8.0\FoodApp.Repository.sourcelink.json
+C:\Users\carce\Downloads\FoodDeliveryApp\FoodApp.Repository\obj\Debug\net8.0\FoodApp..A5B86F7A.Up2Date
+C:\Users\carce\Downloads\FoodDeliveryApp\FoodApp.Repository\obj\Debug\net8.0\FoodApp.Repository.dll
+C:\Users\carce\Downloads\FoodDeliveryApp\FoodApp.Repository\obj\Debug\net8.0\refint\FoodApp.Repository.dll
+C:\Users\carce\Downloads\FoodDeliveryApp\FoodApp.Repository\obj\Debug\net8.0\FoodApp.Repository.pdb
+C:\Users\carce\Downloads\FoodDeliveryApp\FoodApp.Repository\obj\Debug\net8.0\ref\FoodApp.Repository.dll
