@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodApp.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64c1b0222c462ae13b6f0893d57694cc575d2026")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fce881d24f003b9a16c77b42ab92c5c97b75ae7")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodApp.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodApp.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -9,6 +9,6 @@ namespace FoodApp.Domain.Domain
         public string? FoodItemImage { get; set; }
         public int Price { get; set; }
         public Guid? RestaurantId { get; set; }
-        public Restaurant? Restourant { get; set; }
+        public Restaurant? Restaurant { get; set; }
     }
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\carce\\Downloads\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj": {}
+    "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\carce\\Downloads\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj": {
+    "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\carce\\Downloads\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj",
         "projectName": "FoodApp.Domain",
-        "projectPath": "C:\\Users\\carce\\Downloads\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj",
-        "packagesPath": "C:\\Users\\carce\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\carce\\Downloads\\FoodDeliveryApp\\FoodApp.Domain\\obj\\",
+        "projectPath": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\38976\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\carce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\38976\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

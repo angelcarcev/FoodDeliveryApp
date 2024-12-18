@@ -371,11 +371,11 @@ namespace FoodApp.Repository.Migrations
 
             modelBuilder.Entity("FoodApp.Domain.Domain.FoodItem", b =>
                 {
-                    b.HasOne("FoodApp.Domain.Domain.Restaurant", "Restourant")
+                    b.HasOne("FoodApp.Domain.Domain.Restaurant", "Restaurant")
                         .WithMany("FoodItems")
                         .HasForeignKey("RestaurantId");
 
-                    b.Navigation("Restourant");
+                    b.Navigation("Restaurant");
                 });
 
             modelBuilder.Entity("FoodApp.Domain.Domain.FoodItemInOrder", b =>
