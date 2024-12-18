@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodApp.Repository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+937071df6ca0fbd0bfb0747ce6265d855d2d2ca5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a4c56f44909e560ef1bc1248c49b7598c2d3dc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodApp.Repository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodApp.Repository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

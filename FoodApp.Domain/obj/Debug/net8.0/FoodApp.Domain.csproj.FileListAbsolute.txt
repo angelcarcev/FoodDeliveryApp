@@ -24,3 +24,16 @@ C:\Users\38976\Desktop\FoodDeliveryApp\FoodApp.Domain\obj\Debug\net8.0\FoodApp.D
 C:\Users\38976\Desktop\FoodDeliveryApp\FoodApp.Domain\obj\Debug\net8.0\refint\FoodApp.Domain.dll
 C:\Users\38976\Desktop\FoodDeliveryApp\FoodApp.Domain\obj\Debug\net8.0\FoodApp.Domain.pdb
 C:\Users\38976\Desktop\FoodDeliveryApp\FoodApp.Domain\obj\Debug\net8.0\ref\FoodApp.Domain.dll
+C:\Users\pavli\OneDrive\Desktop\FoodDeliveryApp\FoodApp.Domain\bin\Debug\net8.0\FoodApp.Domain.deps.json
+C:\Users\pavli\OneDrive\Desktop\FoodDeliveryApp\FoodApp.Domain\bin\Debug\net8.0\FoodApp.Domain.dll
+C:\Users\pavli\OneDrive\Desktop\FoodDeliveryApp\FoodApp.Domain\bin\Debug\net8.0\FoodApp.Domain.pdb
+C:\Users\pavli\OneDrive\Desktop\FoodDeliveryApp\FoodApp.Domain\obj\Debug\net8.0\FoodApp.Domain.csproj.AssemblyReference.cache
+C:\Users\pavli\OneDrive\Desktop\FoodDeliveryApp\FoodApp.Domain\obj\Debug\net8.0\FoodApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavli\OneDrive\Desktop\FoodDeliveryApp\FoodApp.Domain\obj\Debug\net8.0\FoodApp.Domain.AssemblyInfoInputs.cache
+C:\Users\pavli\OneDrive\Desktop\FoodDeliveryApp\FoodApp.Domain\obj\Debug\net8.0\FoodApp.Domain.AssemblyInfo.cs
+C:\Users\pavli\OneDrive\Desktop\FoodDeliveryApp\FoodApp.Domain\obj\Debug\net8.0\FoodApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\pavli\OneDrive\Desktop\FoodDeliveryApp\FoodApp.Domain\obj\Debug\net8.0\FoodApp.Domain.sourcelink.json
+C:\Users\pavli\OneDrive\Desktop\FoodDeliveryApp\FoodApp.Domain\obj\Debug\net8.0\FoodApp.Domain.dll
+C:\Users\pavli\OneDrive\Desktop\FoodDeliveryApp\FoodApp.Domain\obj\Debug\net8.0\refint\FoodApp.Domain.dll
+C:\Users\pavli\OneDrive\Desktop\FoodDeliveryApp\FoodApp.Domain\obj\Debug\net8.0\FoodApp.Domain.pdb
+C:\Users\pavli\OneDrive\Desktop\FoodDeliveryApp\FoodApp.Domain\obj\Debug\net8.0\ref\FoodApp.Domain.dll
