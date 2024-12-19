@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Food Items List";
+    var foodItems = ViewData["foodItemsList"] as IEnumerable<FoodItem>;
+    var restaurant = ViewData["restaurant"] as Restaurant;
+}
+
+<h2>Food Items List for Restaurant @restaurant.RestaurantName</h2>
+
+
+
+<div class="row">
+    @foreach (var food in foodItems)
+    {
+        <div class="col-md-4">
+            <div class="card mb-4">
+                <img class="card-img-top" src="@food.FoodItemImage" alt="@food.FoodItemName">
+                <div class="card-body">
+                    <h5 class="card-title">@food.FoodItemName</h5>
+                    <p class="card-text">@food.Price</p>
+                    <a asp-controller="FoodItems" asp-action="AddProductToCart" asp-route-id="@food.Id" class="btn btn-info">Add to Cart</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

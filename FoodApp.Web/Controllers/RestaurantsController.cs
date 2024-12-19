@@ -134,5 +134,16 @@ namespace FoodApp.Web.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+
+        public IActionResult ShowFoodItems(Guid id)
+        {
+            var foodItemsList = _foodItemService.getFoodItems(id);
+            ViewData["foodItemsList"] = foodItemsList;
+            Restaurant restaurant = _restaurantService.GetDetailsForRestaurant(id);
+            ViewData["restaurant"] = restaurant;
+
+            return View("FoodItemsList");
+        }
+
     }
 }

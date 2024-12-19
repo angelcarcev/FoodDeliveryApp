@@ -159,6 +159,33 @@ namespace FoodApp.Web.Controllers
             _foodItemService.DeleteFoodItem(id);
             return RedirectToAction(nameof(Index));
         }
-       
+
+
+        public IActionResult AddProductToCart(Guid Id)
+        {
+            var result = _shoppingCartService.getProductInfo(Id);
+            if (result != null)
+            {
+                return View(result);
+            }
+            return View();
+        }
+
+
+        [HttpPost]
+        public IActionResult AddToCartConfirmed(AddToCartDto model)
+        {
+            var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+
+            var result = _shoppingCartService.AddToShoppingConfirmed(userId, model);
+
+            if (result != null)
+            {
+                return RedirectToAction("Index", "ShoppingCarts");
+            }
+            else { return View(model); }
+
+        }
+
     }
 }

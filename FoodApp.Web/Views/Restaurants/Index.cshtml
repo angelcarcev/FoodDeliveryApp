@@ -31,19 +31,10 @@
                 </div>
                 <div class="card-footer">
                     <a asp-controller="Restaurants" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-info">Edit</a>
-                   
                     <a asp-controller="Restaurants" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
-
-                  
                     <a asp-controller="Restaurants" asp-action="Details" asp-route-id="@item.Id" class="btn btn-primary">Details</a>
-
-                
-                  
-               
-                
-                  
+                    <a asp-controller="Restaurants" asp-action="ShowFoodItems" asp-route-id="@item.Id" class="btn btn-primary">Menu</a>
                 </div>
-
             </div>
         </div>
 

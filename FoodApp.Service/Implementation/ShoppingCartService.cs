@@ -27,7 +27,7 @@ namespace FoodApp.Service.Implementation
             _foodItemInOrderRepository = fooditeminorderrepository;
             _fooditemRepository = fooditemrepository;
         }
-        public bool deleteFoodFromShoppingCart(string userId, Guid productId)
+        public bool deleteFoodFromShoppingCart(string userId, Guid? productId)
         {
             if (userId != null)
             {
