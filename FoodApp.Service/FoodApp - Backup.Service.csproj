@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+	
+	<ItemGroup>
+    <PackageReference Include="MailKit" Version="4.5.0" />
+    <PackageReference Include="MimeKit" Version="4.5.0" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="MailKit" Version="4.5.0" />
+		<PackageReference Include="MimeKit" Version="4.5.0" />
+	</ItemGroup>
+
+
+	  <ItemGroup>
+    <PackageReference Include="MimeKit" Version="4.9.0" />
+  </ItemGroup>
+
+<ItemGroup>
+    <ProjectReference Include="..\FoodApp.Domain\FoodApp.Domain.csproj" />
+    <ProjectReference Include="..\FoodApp.Repository\FoodApp.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

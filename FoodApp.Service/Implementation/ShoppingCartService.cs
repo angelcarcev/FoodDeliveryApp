@@ -1,4 +1,5 @@
-﻿using FoodApp.Domain.Domain;
+﻿using FoodApp.Domain;
+using FoodApp.Domain.Domain;
 using FoodApp.Domain.DTO;
 using FoodApp.Repository.Interface;
 using FoodApp.Service.Interface;
@@ -18,14 +19,16 @@ namespace FoodApp.Service.Implementation
         private readonly IRepository<FoodItemInOrder> _foodItemInOrderRepository;
         private readonly IRepository<Order> _orderRepository;
         private readonly IUserRepository _userRepository;
+        private readonly IEmailService _emailService;
 
-        public ShoppingCartService(IRepository<ShoppingCart> shoppingCartRepository, IRepository<FoodItem> fooditemrepository, IUserRepository userRepository, IRepository<Order> orderRepository, IRepository<FoodItemInOrder> fooditeminorderrepository)
+        public ShoppingCartService(IRepository<ShoppingCart> shoppingCartRepository, IRepository<FoodItem> fooditemrepository, IUserRepository userRepository, IRepository<Order> orderRepository, IRepository<FoodItemInOrder> fooditeminorderrepository, IEmailService emailService)
         {
             _shoppingCartRepository = shoppingCartRepository;
             _userRepository = userRepository;
             _orderRepository = orderRepository;
             _foodItemInOrderRepository = fooditeminorderrepository;
             _fooditemRepository = fooditemrepository;
+            _emailService = emailService;
         }
         public bool deleteFoodFromShoppingCart(string userId, Guid? productId)
         {
@@ -73,6 +76,9 @@ namespace FoodApp.Service.Implementation
                 var loggedInUser = _userRepository.Get(userId);
 
                 var userShoppingCart = loggedInUser.UserCart;
+                EmailMessage message = new EmailMessage();
+                message.Subject = "Successfull order";
+                message.MailTo = loggedInUser.Email;
 
                 Order order = new Order
                 {
@@ -97,6 +103,23 @@ namespace FoodApp.Service.Implementation
                     }
                     ).ToList();
 
+
+                StringBuilder sb = new StringBuilder();
+
+                var totalPrice = 0.0;
+
+                sb.AppendLine("Your order is completed. The order conatins: ");
+
+                for (int i = 1; i <= lista.Count(); i++)
+                {
+                    var currentItem = lista[i - 1];
+                    totalPrice += currentItem.Quantity * currentItem.FoodItem.Price;
+                    sb.AppendLine(i.ToString() + ". " + currentItem.FoodItem.FoodItemName + " with quantity of: " + currentItem.Quantity + " and price of: $" + currentItem.FoodItem.Price);
+                }
+
+                sb.AppendLine("Total price for your order: " + totalPrice.ToString());
+                message.Content = sb.ToString();
+
                 foodItemInOrder.AddRange(lista);
 
                 foreach (var product in foodItemInOrder)
@@ -106,12 +129,14 @@ namespace FoodApp.Service.Implementation
 
                 loggedInUser.UserCart.FoodItemInShoppingCarts.Clear();
                 _userRepository.Update(loggedInUser);
+                this._emailService.SendEmailAsync(message);
+
                 return true;
             }
             return false;
         }
 
-        
+
         public AddToCartDto getProductInfo(Guid Id)
         {
             var selectedProduct = _fooditemRepository.Get(Id);
