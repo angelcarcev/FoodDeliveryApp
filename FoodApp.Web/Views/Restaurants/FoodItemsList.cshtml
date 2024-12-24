@@ -4,11 +4,11 @@
     var restaurant = ViewData["restaurant"] as Restaurant;
 }
 
-<h2>Food Items List for Restaurant @restaurant.RestaurantName</h2>
+<h2 class="text-white text-center">Food Items List for Restaurant @restaurant.RestaurantName</h2>
 
 
 
-<div class="row">
+<div class="row p-10">
     @foreach (var food in foodItems)
     {
         <div class="col-md-4">
@@ -17,7 +17,7 @@
                 <div class="card-body">
                     <h5 class="card-title">@food.FoodItemName</h5>
                     <p class="card-text">@food.Price</p>
-                    <a asp-controller="FoodItems" asp-action="AddProductToCart" asp-route-id="@food.Id" class="btn btn-info">Add to Cart</a>
+                    <a asp-controller="FoodItems" asp-action="AddProductToCart" asp-route-id="@food.Id" class="btn btn-dark text-white">Add to Cart</a>
                 </div>
             </div>
         </div>

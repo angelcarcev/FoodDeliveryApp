@@ -3,13 +3,13 @@
 
 <div class="container">
     <div class="row">
-        <a asp-controller="Orders" asp-action="ExportAllOrders" class="btn btn-info">Export Orders</a>
+        <a asp-controller="Orders" asp-action="ExportAllOrders" class="btn btn-light text-dark">Export Orders</a>
     </div>
 
     <div class="row m-5">
-        <table class="table">
-            <thead>
-                <tr>
+        <table class="table table-bordered">
+            <thead class="thead-dark text-white">
+                <tr class="table-dark">
                     <th>
                         #
                     </th>
@@ -20,14 +20,14 @@
                         Number of products
                     </th>
                     <th></th>
-                    <th></th>
+                    
                 </tr>
             </thead>
             <tbody>
                 @for (int i = 0; i < Model.Count(); i++)
                 {
                     var item = Model[i];
-                    <tr>
+                    <tr class="table-warning">
                         <td>@(i + 1)</td>
                         <td>
                             @item.Owner.UserName
@@ -38,7 +38,7 @@
                         </td>
                         <td>
                             |
-                            <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">View Order</a>
+                            <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-light btn-outline-dark">View Order</a>
                         </td>
 
                     </tr>

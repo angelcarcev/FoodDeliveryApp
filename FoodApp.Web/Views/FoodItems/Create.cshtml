@@ -5,49 +5,51 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Create</h1>
+<h1 class="text-white text-center">Create</h1>
 
-<h4>FoodItem</h4>
+<h4 class="text-white text-center">Food-item</h4>
 <hr />
-<div class="row">
+<div class="row text-white d-flex justify-content-center">
     <div class="col-md-4">
         <form asp-action="Create">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="FoodItemName" class="control-label"></label>
+                <label asp-for="FoodItemName" class="control-label">Food-item Name</label>
                 <input asp-for="FoodItemName" class="form-control" />
                 <span asp-validation-for="FoodItemName" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="FoodItemDescription" class="control-label"></label>
+                <label asp-for="FoodItemDescription" class="control-label">Food-item Description</label>
                 <input asp-for="FoodItemDescription" class="form-control" />
                 <span asp-validation-for="FoodItemDescription" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="FoodItemImage" class="control-label"></label>
+                <label asp-for="FoodItemImage" class="control-label">Food-item Image</label>
                 <input asp-for="FoodItemImage" class="form-control" />
                 <span asp-validation-for="FoodItemImage" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="Price" class="control-label"></label>
+                <label asp-for="Price" class="control-label">Price</label>
                 <input asp-for="Price" class="form-control" />
                 <span asp-validation-for="Price" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="RestaurantId" class="control-label"></label>
-                <select asp-for="RestaurantId" class ="form-control" asp-items="ViewBag.Restaurants"></select>
+                <label asp-for="RestaurantId" class="control-label">Restaurant</label>
+                <select asp-for="RestaurantId" class="form-control" asp-items="ViewBag.Restaurants"></select>
             </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+            <div class="form-group" style="margin-top:10px">
+                <input type="submit" value="Create" class="btn btn-warning" />
             </div>
         </form>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
+<div style="margin-top:10px" class="d-flex justify-content-center">
+    <a asp-action="Index" class="btn btn-light text-black">Back to List</a>
 </div>
 
 @section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
 }

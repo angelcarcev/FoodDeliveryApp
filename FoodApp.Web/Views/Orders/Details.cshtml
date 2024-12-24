@@ -1,8 +1,8 @@
 ﻿@model FoodApp.Domain.Domain.Order
 
 <div class="container">
-    <div>
-        <p>Order for @Model.Owner.UserName</p>
+    <div class="text-white text-center" style="font-size:40px">
+        <p>Order for @Model.Owner.Firstname</p>
     </div>
 
     @for(int i=0;i<Model.FoodItemsInOrder.Count(); i++)
@@ -14,8 +14,8 @@
         }
         <div class="col-3 m-4">
 
-            <div class="card" style="width: 18rem; height: 35rem">
-                <img class="card-img-top" src="@item.FoodItemImage" alt="Card image cap">
+            <div class="card" style="width: 20rem; height: 30rem">
+                <img class="card-img-top" src="@item.FoodItemImage" alt="Card image cap" style="width:319px;height:250px">
                 <div class="card-body">
                     <h5 class="card-title">@item.FoodItemName</h5>
                     <p class="card-text">@item.FoodItemDescription</p>
@@ -32,7 +32,7 @@
     }
      <div>
 
-      <a asp-action="Index" class="btn btn-primary" >Back to Orders</a>
+      <a asp-action="Index" class="btn btn-light text-black" >Back to Orders</a>
 
       </div>
 

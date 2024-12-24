@@ -8810,19 +8810,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pavli\\.nuget\\packages\\": {}
+    "C:\\Users\\38976\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\FoodApp.Web.csproj",
+      "projectUniqueName": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\FoodApp.Web.csproj",
       "projectName": "FoodApp.Web",
-      "projectPath": "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\FoodApp.Web.csproj",
-      "packagesPath": "C:\\Users\\pavli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\obj\\",
+      "projectPath": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\FoodApp.Web.csproj",
+      "packagesPath": "C:\\Users\\38976\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pavli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\38976\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8836,14 +8836,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj"
+            "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj"
             },
-            "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Repository\\FoodApp.Repository.csproj": {
-              "projectPath": "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Repository\\FoodApp.Repository.csproj"
+            "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Repository\\FoodApp.Repository.csproj": {
+              "projectPath": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Repository\\FoodApp.Repository.csproj"
             },
-            "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Service\\FoodApp.Service.csproj": {
-              "projectPath": "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Service\\FoodApp.Service.csproj"
+            "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Service\\FoodApp.Service.csproj": {
+              "projectPath": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Service\\FoodApp.Service.csproj"
             }
           }
         }
@@ -8925,7 +8925,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -5,11 +5,11 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h1>Edit</h1>
+<h1 class="text-white text-center">Edit</h1>
 
-<h4>Restaurant</h4>
+<h4 class="text-white text-center">Restaurant</h4>
 <hr />
-<div class="row">
+<div class="row  d-flex justify-content-center text-white">
     <div class="col-md-4">
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
@@ -35,14 +35,14 @@
             </div>
             <input type="hidden" asp-for="Id" />
             <div class="form-group">
-                <input type="submit" value="Save" class="btn btn-primary" />
+                <input type="submit" value="Save" class="btn btn-warning" />
             </div>
         </form>
     </div>
 </div>
 
-<div>
-    <a asp-action="Index">Back to List</a>
+<div style="margin-top:8px;" class="d-flex justify-content-center">
+    <a asp-action="Index" class="btn btn-light text-black">Back to List</a>
 </div>
 
 @section Scripts {

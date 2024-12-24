@@ -2288,8 +2288,7 @@
         "dependencies": {
           "FoodApp.Domain": "1.0.0",
           "FoodApp.Repository": "1.0.0",
-          "MailKit": "4.5.0",
-          "MimeKit": "4.5.0"
+          "MailKit": "4.5.0"
         },
         "runtime": {
           "FoodApp.Service.dll": {}
