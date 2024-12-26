@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\restaurants\\fooditemslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\restaurants\\fooditemslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\fooditems\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\fooditems\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\restaurants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\restaurants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\fooditems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\fooditems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\areas\\identity\\pages\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,20 +55,12 @@
       "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\areas\\identity\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -83,10 +99,6 @@
       "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\restaurants\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\restaurants\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -99,16 +111,8 @@
       "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\restaurants\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\restaurants\\fooditemslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\restaurants\\fooditemslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\restaurants\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\restaurants\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\fooditems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\fooditems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\fooditems\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -119,16 +123,8 @@
       "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\fooditems\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\fooditems\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\fooditems\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\fooditems\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\fooditems\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\restaurants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|solutionrelative:foodapp.web\\views\\restaurants\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F6DE45FE-8606-4A99-A6D9-958E80E000BB}|FoodApp.Web\\FoodApp.Web.csproj|c:\\users\\38976\\desktop\\fooddeliveryapp\\foodapp.web\\views\\fooditems\\addproducttocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -242,7 +238,96 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "FoodApp.Web\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T22:36:23.435Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Restaurants\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Restaurants\\Index.cshtml",
+              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Restaurants\\Index.cshtml",
+              "RelativeToolTip": "FoodApp.Web\\Views\\Restaurants\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T12:02:00.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FoodApp.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "FoodApp.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T15:11:46.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "FoodApp.Web\\Views\\Orders\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T22:25:16.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\FoodItems\\Details.cshtml",
+              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\FoodItems\\Details.cshtml",
+              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\FoodItems\\Details.cshtml",
+              "RelativeToolTip": "FoodApp.Web\\Views\\FoodItems\\Details.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwC8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T11:58:08.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FoodItemsList.cshtml",
+              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Restaurants\\FoodItemsList.cshtml",
+              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Restaurants\\FoodItemsList.cshtml",
+              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Restaurants\\FoodItemsList.cshtml",
+              "RelativeToolTip": "FoodApp.Web\\Views\\Restaurants\\FoodItemsList.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T13:44:50.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\FoodItems\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\FoodItems\\Index.cshtml",
+              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\FoodItems\\Index.cshtml",
+              "RelativeToolTip": "FoodApp.Web\\Views\\FoodItems\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T11:59:01.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "FoodApp.Web\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
@@ -255,111 +340,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "FoodApp.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "FoodApp.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T15:11:50.017Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "FoodApp.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "FoodApp.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FoodApp.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T15:11:49.261Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "FoodApp.Web\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-23T22:36:23.435Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "FoodApp.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-23T22:35:56.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "FoodApp.Web\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T12:01:01.27Z",
+              "WhenOpened": "2024-12-23T22:34:45.374Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "FoodApp.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "RelativeToolTip": "FoodApp.Web\\Areas\\Identity\\Pages\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T15:11:46.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "FoodApp.Web\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T15:11:29.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "FoodApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T15:11:27.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "FoodApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
@@ -372,7 +366,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FoodApp.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T22:35:56.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FoodApp.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "FoodApp.Web\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T15:11:49.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "FoodApp.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "FoodApp.Web\\Areas\\Identity\\Pages\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T15:11:50.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "FoodApp.Web\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T15:11:29.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "FoodApp.Web\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T15:11:27.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "NotsuccessPayment.cshtml",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\ShoppingCarts\\NotsuccessPayment.cshtml",
               "RelativeDocumentMoniker": "FoodApp.Web\\Views\\ShoppingCarts\\NotsuccessPayment.cshtml",
@@ -380,12 +434,11 @@
               "RelativeToolTip": "FoodApp.Web\\Views\\ShoppingCarts\\NotsuccessPayment.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-21T20:02:05.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T20:02:05.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "ShoppingCartsController.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Controllers\\ShoppingCartsController.cs",
               "RelativeDocumentMoniker": "FoodApp.Web\\Controllers\\ShoppingCartsController.cs",
@@ -393,12 +446,11 @@
               "RelativeToolTip": "FoodApp.Web\\Controllers\\ShoppingCartsController.cs",
               "ViewState": "AQIAADoAAAAAAAAAAAAAwEMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T19:46:01.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T19:46:01.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\appsettings.json",
               "RelativeDocumentMoniker": "FoodApp.Web\\appsettings.json",
@@ -406,25 +458,11 @@
               "RelativeToolTip": "FoodApp.Web\\appsettings.json",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-21T20:04:19.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T20:04:19.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "FoodApp.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwD0AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-23T22:34:45.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\ShoppingCarts\\Index.cshtml",
               "RelativeDocumentMoniker": "FoodApp.Web\\Views\\ShoppingCarts\\Index.cshtml",
@@ -432,12 +470,11 @@
               "RelativeToolTip": "FoodApp.Web\\Views\\ShoppingCarts\\Index.cshtml",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAAA4AAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-21T19:58:15.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T19:58:15.213Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "FoodApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
@@ -445,12 +482,11 @@
               "RelativeToolTip": "FoodApp.Web\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T15:04:56.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T15:04:56.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "FoodApp.Web\\Views\\_ViewImports.cshtml",
@@ -458,12 +494,11 @@
               "RelativeToolTip": "FoodApp.Web\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T14:55:42.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T14:55:42.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "SuccessPayment.cshtml",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\ShoppingCarts\\SuccessPayment.cshtml",
               "RelativeDocumentMoniker": "FoodApp.Web\\Views\\ShoppingCarts\\SuccessPayment.cshtml",
@@ -471,38 +506,11 @@
               "RelativeToolTip": "FoodApp.Web\\Views\\ShoppingCarts\\SuccessPayment.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-21T20:02:47.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T20:02:47.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\FoodItems\\Index.cshtml",
-              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\FoodItems\\Index.cshtml",
-              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\FoodItems\\Index.cshtml",
-              "RelativeToolTip": "FoodApp.Web\\Views\\FoodItems\\Index.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAAgAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T11:59:01.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Orders\\Details.cshtml",
-              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Orders\\Details.cshtml",
-              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Orders\\Details.cshtml",
-              "RelativeToolTip": "FoodApp.Web\\Views\\Orders\\Details.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAMAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-23T22:25:16.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Orders\\Index.cshtml",
               "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Orders\\Index.cshtml",
@@ -510,12 +518,11 @@
               "RelativeToolTip": "FoodApp.Web\\Views\\Orders\\Index.cshtml",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T12:01:39.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T12:01:39.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Restaurants\\Edit.cshtml",
               "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Restaurants\\Edit.cshtml",
@@ -523,12 +530,11 @@
               "RelativeToolTip": "FoodApp.Web\\Views\\Restaurants\\Edit.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T13:42:35.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T13:42:35.428Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\ShoppingCarts\\Edit.cshtml",
               "RelativeDocumentMoniker": "FoodApp.Web\\Views\\ShoppingCarts\\Edit.cshtml",
@@ -536,12 +542,11 @@
               "RelativeToolTip": "FoodApp.Web\\Views\\ShoppingCarts\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T14:37:25.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T14:37:25.236Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Restaurants\\Create.cshtml",
               "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Restaurants\\Create.cshtml",
@@ -549,12 +554,11 @@
               "RelativeToolTip": "FoodApp.Web\\Views\\Restaurants\\Create.cshtml",
               "ViewState": "AQIAABUAAAAAAAAAAAAAACoAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T13:37:24.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T13:37:24.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Restaurants\\Delete.cshtml",
               "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Restaurants\\Delete.cshtml",
@@ -562,12 +566,11 @@
               "RelativeToolTip": "FoodApp.Web\\Views\\Restaurants\\Delete.cshtml",
               "ViewState": "AQIAABUAAAAAAAAAAAAAAAoAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T13:39:58.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T13:39:58.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Restaurants\\Details.cshtml",
               "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Restaurants\\Details.cshtml",
@@ -575,12 +578,11 @@
               "RelativeToolTip": "FoodApp.Web\\Views\\Restaurants\\Details.cshtml",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAACkAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T13:41:42.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T13:41:42.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "AddProductToCart.cshtml",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\FoodItems\\AddProductToCart.cshtml",
               "RelativeDocumentMoniker": "FoodApp.Web\\Views\\FoodItems\\AddProductToCart.cshtml",
@@ -588,25 +590,11 @@
               "RelativeToolTip": "FoodApp.Web\\Views\\FoodItems\\AddProductToCart.cshtml",
               "ViewState": "AQIAAAsAAAAAAAAAAAAgwCMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T11:56:54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T11:56:54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "FoodItemsList.cshtml",
-              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Restaurants\\FoodItemsList.cshtml",
-              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Restaurants\\FoodItemsList.cshtml",
-              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Restaurants\\FoodItemsList.cshtml",
-              "RelativeToolTip": "FoodApp.Web\\Views\\Restaurants\\FoodItemsList.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAACGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T13:44:50.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\FoodItems\\Create.cshtml",
               "RelativeDocumentMoniker": "FoodApp.Web\\Views\\FoodItems\\Create.cshtml",
@@ -614,12 +602,11 @@
               "RelativeToolTip": "FoodApp.Web\\Views\\FoodItems\\Create.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAAAAAC4AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T11:57:26.46Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T11:57:26.46Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\FoodItems\\Edit.cshtml",
               "RelativeDocumentMoniker": "FoodApp.Web\\Views\\FoodItems\\Edit.cshtml",
@@ -627,21 +614,7 @@
               "RelativeToolTip": "FoodApp.Web\\Views\\FoodItems\\Edit.cshtml",
               "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T11:58:44.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\FoodItems\\Details.cshtml",
-              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\FoodItems\\Details.cshtml",
-              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\FoodItems\\Details.cshtml",
-              "RelativeToolTip": "FoodApp.Web\\Views\\FoodItems\\Details.cshtml",
-              "ViewState": "AQIAACQAAAAAAAAAAAAgwC8AAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T11:58:08.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T11:58:44.178Z"
             },
             {
               "$type": "Document",
@@ -653,25 +626,11 @@
               "RelativeToolTip": "FoodApp.Web\\Views\\FoodItems\\Delete.cshtml",
               "ViewState": "AQIAACQAAAAAAAAAAAAAADEAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T11:57:52.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T11:57:52.559Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Restaurants\\Index.cshtml",
-              "RelativeDocumentMoniker": "FoodApp.Web\\Views\\Restaurants\\Index.cshtml",
-              "ToolTip": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\Restaurants\\Index.cshtml",
-              "RelativeToolTip": "FoodApp.Web\\Views\\Restaurants\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-24T12:02:00.997Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Repository\\Implementation\\Repository.cs",
               "RelativeDocumentMoniker": "FoodApp.Repository\\Implementation\\Repository.cs",
@@ -679,12 +638,11 @@
               "RelativeToolTip": "FoodApp.Repository\\Implementation\\Repository.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAQwDsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T12:36:19.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T12:36:19.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "FoodApp.Web\\Controllers\\OrdersController.cs",
@@ -692,12 +650,11 @@
               "RelativeToolTip": "FoodApp.Web\\Controllers\\OrdersController.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T20:45:47.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T20:45:47.046Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "FoodItem.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\Domain\\FoodItem.cs",
               "RelativeDocumentMoniker": "FoodApp.Domain\\Domain\\FoodItem.cs",
@@ -705,12 +662,11 @@
               "RelativeToolTip": "FoodApp.Domain\\Domain\\FoodItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T12:34:34.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T12:34:34.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "FoodItemInOrder.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\Domain\\FoodItemInOrder.cs",
               "RelativeDocumentMoniker": "FoodApp.Domain\\Domain\\FoodItemInOrder.cs",
@@ -718,12 +674,11 @@
               "RelativeToolTip": "FoodApp.Domain\\Domain\\FoodItemInOrder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T12:34:38.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T12:34:38.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "FoodItemsController.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Controllers\\FoodItemsController.cs",
               "RelativeDocumentMoniker": "FoodApp.Web\\Controllers\\FoodItemsController.cs",
@@ -731,12 +686,11 @@
               "RelativeToolTip": "FoodApp.Web\\Controllers\\FoodItemsController.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T12:35:35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T12:35:35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\Domain\\Order.cs",
               "RelativeDocumentMoniker": "FoodApp.Domain\\Domain\\Order.cs",
@@ -744,12 +698,11 @@
               "RelativeToolTip": "FoodApp.Domain\\Domain\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T22:33:01.651Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T22:33:01.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 45,
               "Title": "EmailMessage.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\EmailMessage.cs",
               "RelativeDocumentMoniker": "FoodApp.Domain\\EmailMessage.cs",
@@ -761,7 +714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "EShopApplicationUser.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\Identity\\EShopApplicationUser.cs",
               "RelativeDocumentMoniker": "FoodApp.Domain\\Identity\\EShopApplicationUser.cs",
@@ -773,7 +726,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "OrderService.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Service\\Implementation\\OrderService.cs",
               "RelativeDocumentMoniker": "FoodApp.Service\\Implementation\\OrderService.cs",
@@ -785,7 +738,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "FoodApp.Service.csproj",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Service\\FoodApp.Service.csproj",
               "RelativeDocumentMoniker": "FoodApp.Service\\FoodApp.Service.csproj",
@@ -797,7 +750,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "EmailService.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Service\\Implementation\\EmailService.cs",
               "RelativeDocumentMoniker": "FoodApp.Service\\Implementation\\EmailService.cs",
@@ -809,7 +762,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "20241221201429_stripe.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Repository\\Migrations\\20241221201429_stripe.cs",
               "RelativeDocumentMoniker": "FoodApp.Repository\\Migrations\\20241221201429_stripe.cs",
@@ -821,7 +774,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 43,
               "Title": "RestaurantsController.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Controllers\\RestaurantsController.cs",
               "RelativeDocumentMoniker": "FoodApp.Web\\Controllers\\RestaurantsController.cs",
@@ -833,7 +786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "ShoppingCartService.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Service\\Implementation\\ShoppingCartService.cs",
               "RelativeDocumentMoniker": "FoodApp.Service\\Implementation\\ShoppingCartService.cs",
@@ -845,7 +798,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 46,
               "Title": "additional-methods.js",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
               "RelativeDocumentMoniker": "FoodApp.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
@@ -857,7 +810,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\appsettings.Development.json",
               "RelativeDocumentMoniker": "FoodApp.Web\\appsettings.Development.json",
@@ -869,7 +822,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "AddToCartDto.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\DTO\\AddToCartDto.cs",
               "RelativeDocumentMoniker": "FoodApp.Domain\\DTO\\AddToCartDto.cs",
@@ -881,7 +834,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 49,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\Views\\ShoppingCarts\\Create.cshtml",
               "RelativeDocumentMoniker": "FoodApp.Web\\Views\\ShoppingCarts\\Create.cshtml",
@@ -893,7 +846,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 50,
               "Title": "IEmailService.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Service\\Interface\\IEmailService.cs",
               "RelativeDocumentMoniker": "FoodApp.Service\\Interface\\IEmailService.cs",
@@ -905,7 +858,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 51,
               "Title": "StripeSettings.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\StripeSettings.cs",
               "RelativeDocumentMoniker": "FoodApp.Domain\\StripeSettings.cs",
@@ -917,7 +870,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 52,
               "Title": "MailSettings.cs",
               "DocumentMoniker": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\MailSettings.cs",
               "RelativeDocumentMoniker": "FoodApp.Domain\\MailSettings.cs",

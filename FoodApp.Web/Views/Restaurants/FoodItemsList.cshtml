@@ -14,7 +14,7 @@
         <div class="col-md-4">
             <div class="card mb-4">
                 <img class="card-img-top" src="@food.FoodItemImage" alt="@food.FoodItemName">
-                <div class="card-body">
+                <div class="card-body text-dark">
                     <h5 class="card-title">@food.FoodItemName</h5>
                     <p class="card-text">@food.Price</p>
                     <a asp-controller="FoodItems" asp-action="AddProductToCart" asp-route-id="@food.Id" class="btn btn-dark text-white">Add to Cart</a>
