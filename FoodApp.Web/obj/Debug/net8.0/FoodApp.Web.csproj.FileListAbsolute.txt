@@ -926,3 +926,4 @@ C:\Users\38976\Desktop\FoodDeliveryApp\FoodApp.Web\bin\Debug\net8.0\RBush.dll
 C:\Users\38976\Desktop\FoodDeliveryApp\FoodApp.Web\bin\Debug\net8.0\SixLabors.Fonts.dll
 C:\Users\38976\Desktop\FoodDeliveryApp\FoodApp.Web\bin\Debug\net8.0\Stripe.net.dll
 C:\Users\38976\Desktop\FoodDeliveryApp\FoodApp.Web\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\pavli\OneDrive\Desktop\FoodDeliveryApp\FoodApp.Web\bin\Debug\net8.0\Dapper.dll

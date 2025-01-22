@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "Dapper/2.1.35": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/Dapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Dapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.AspNetCore.Cryptography.Internal/8.0.2": {
         "type": "package",
         "compile": {
@@ -320,6 +333,27 @@
     }
   },
   "libraries": {
+    "Dapper/2.1.35": {
+      "sha512": "YKRwjVfrG7GYOovlGyQoMvr1/IJdn+7QzNXJxyMh0YfFF5yvDmTYaJOVYWsckreNjGsGSEtrMTpnzxTUq/tZQw==",
+      "type": "package",
+      "path": "dapper/2.1.35",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Dapper.png",
+        "dapper.2.1.35.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net461/Dapper.dll",
+        "lib/net461/Dapper.xml",
+        "lib/net5.0/Dapper.dll",
+        "lib/net5.0/Dapper.xml",
+        "lib/net7.0/Dapper.dll",
+        "lib/net7.0/Dapper.xml",
+        "lib/netstandard2.0/Dapper.dll",
+        "lib/netstandard2.0/Dapper.xml",
+        "readme.md"
+      ]
+    },
     "Microsoft.AspNetCore.Cryptography.Internal/8.0.2": {
       "sha512": "eZecZwgDIIK3QdtDHE2ndH1Yw/Mbo/b4HpyB135eZsIWYVr4dyO4vYa6s/IRIaWEMUdPNT2qU8mILF0MwDl+FQ==",
       "type": "package",
@@ -807,23 +841,24 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Dapper >= 2.1.35",
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 8.0.2"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\38976\\.nuget\\packages\\": {}
+    "C:\\Users\\pavli\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj",
       "projectName": "FoodApp.Domain",
-      "projectPath": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj",
-      "packagesPath": "C:\\Users\\38976\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\obj\\",
+      "projectPath": "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj",
+      "packagesPath": "C:\\Users\\pavli\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\38976\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pavli\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -854,6 +889,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Dapper": {
+            "target": "Package",
+            "version": "[2.1.35, )"
+          },
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
             "target": "Package",
             "version": "[8.0.2, )"
@@ -875,7 +914,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

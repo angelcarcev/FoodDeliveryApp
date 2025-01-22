@@ -93,6 +93,19 @@
           }
         }
       },
+      "Dapper/2.1.35": {
+        "type": "package",
+        "compile": {
+          "lib/net7.0/Dapper.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net7.0/Dapper.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "DocumentFormat.OpenXml/3.1.1": {
         "type": "package",
         "dependencies": {
@@ -3208,6 +3221,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "Dapper": "2.1.35",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.2"
         },
         "compile": {
@@ -3221,6 +3235,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "Dapper": "2.1.35",
           "FoodApp.Domain": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.2",
           "Microsoft.EntityFrameworkCore": "8.0.2",
@@ -3237,6 +3252,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "Dapper": "2.1.35",
           "FoodApp.Domain": "1.0.0",
           "FoodApp.Repository": "1.0.0",
           "MailKit": "4.5.0"
@@ -3341,6 +3357,27 @@
         "lib/netstandard2.0/ClosedXML.Parser.xml",
         "lib/netstandard2.1/ClosedXML.Parser.dll",
         "lib/netstandard2.1/ClosedXML.Parser.xml"
+      ]
+    },
+    "Dapper/2.1.35": {
+      "sha512": "YKRwjVfrG7GYOovlGyQoMvr1/IJdn+7QzNXJxyMh0YfFF5yvDmTYaJOVYWsckreNjGsGSEtrMTpnzxTUq/tZQw==",
+      "type": "package",
+      "path": "dapper/2.1.35",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Dapper.png",
+        "dapper.2.1.35.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net461/Dapper.dll",
+        "lib/net461/Dapper.xml",
+        "lib/net5.0/Dapper.dll",
+        "lib/net5.0/Dapper.xml",
+        "lib/net7.0/Dapper.dll",
+        "lib/net7.0/Dapper.xml",
+        "lib/netstandard2.0/Dapper.dll",
+        "lib/netstandard2.0/Dapper.xml",
+        "readme.md"
       ]
     },
     "DocumentFormat.OpenXml/3.1.1": {
@@ -8795,6 +8832,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "ClosedXML >= 0.104.2",
+      "Dapper >= 2.1.35",
       "FoodApp.Domain >= 1.0.0",
       "FoodApp.Repository >= 1.0.0",
       "FoodApp.Service >= 1.0.0",
@@ -8810,19 +8848,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\38976\\.nuget\\packages\\": {}
+    "C:\\Users\\pavli\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\FoodApp.Web.csproj",
+      "projectUniqueName": "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\FoodApp.Web.csproj",
       "projectName": "FoodApp.Web",
-      "projectPath": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\FoodApp.Web.csproj",
-      "packagesPath": "C:\\Users\\38976\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\obj\\",
+      "projectPath": "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\FoodApp.Web.csproj",
+      "packagesPath": "C:\\Users\\pavli\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\38976\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\pavli\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8836,14 +8874,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj"
+            "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Domain\\FoodApp.Domain.csproj"
             },
-            "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Repository\\FoodApp.Repository.csproj": {
-              "projectPath": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Repository\\FoodApp.Repository.csproj"
+            "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Repository\\FoodApp.Repository.csproj": {
+              "projectPath": "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Repository\\FoodApp.Repository.csproj"
             },
-            "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Service\\FoodApp.Service.csproj": {
-              "projectPath": "C:\\Users\\38976\\Desktop\\FoodDeliveryApp\\FoodApp.Service\\FoodApp.Service.csproj"
+            "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Service\\FoodApp.Service.csproj": {
+              "projectPath": "C:\\Users\\pavli\\OneDrive\\Desktop\\FoodDeliveryApp\\FoodApp.Service\\FoodApp.Service.csproj"
             }
           }
         }
@@ -8866,6 +8904,10 @@
           "ClosedXML": {
             "target": "Package",
             "version": "[0.104.2, )"
+          },
+          "Dapper": {
+            "target": "Package",
+            "version": "[2.1.35, )"
           },
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
             "target": "Package",
@@ -8925,7 +8967,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
